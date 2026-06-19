@@ -2,4 +2,5 @@
 
 ----
 
-- 1 - 🎬 [Demon's-Souls-Let's-Play-Part-6：-Tower-Knight](https://github.com/guccibust/YTDLv4/tree/main/videos/Demon%27s-Souls-Let%27s-Play-Part-6%EF%BC%9A-Tower-Knight)
+- 1 - 🎬 [Demon's-Souls-Let's-Play-Part-4：-Phalanx](https://github.com/guccibust/YTDLv4/tree/main/videos/Demon%27s-Souls-Let%27s-Play-Part-4%EF%BC%9A-Phalanx)
+- 2 - 🎬 [Demon's-Souls-Let's-Play-Part-6：-Tower-Knight](https://github.com/guccibust/YTDLv4/tree/main/videos/Demon%27s-Souls-Let%27s-Play-Part-6%EF%BC%9A-Tower-Knight)
