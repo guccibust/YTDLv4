@@ -32,4 +32,5 @@
 - 28 - 🎬 [Demon's-Souls-Let's-Play-Part-9：-Flamelurker](https://github.com/guccibust/YTDLv4/tree/main/videos/Demon%27s-Souls-Let%27s-Play-Part-9%EF%BC%9A-Flamelurker)
 - 29 - 🎬 [New-PS4⧸PS5-WebKit-exploit-released-(Overview-&-Setup)](https://github.com/guccibust/YTDLv4/tree/main/videos/New-PS4%E2%A7%B8PS5-WebKit-exploit-released-%28Overview-%26-Setup%29)
 - 30 - 🎬 [Sekiro-Any%-Speedrun-in-19_50-(Former-World-Record)](https://github.com/guccibust/YTDLv4/tree/main/videos/Sekiro-Any%25-Speedrun-in-19_50-%28Former-World-Record%29)
-- 31 - 🎬 [What's-New-in-the-Demon's-Souls-Remake？](https://github.com/guccibust/YTDLv4/tree/main/videos/What%27s-New-in-the-Demon%27s-Souls-Remake%EF%BC%9F)
+- 31 - 🎬 [The-Beginner's-Guide-to-Bloodborne](https://github.com/guccibust/YTDLv4/tree/main/videos/The-Beginner%27s-Guide-to-Bloodborne)
+- 32 - 🎬 [What's-New-in-the-Demon's-Souls-Remake？](https://github.com/guccibust/YTDLv4/tree/main/videos/What%27s-New-in-the-Demon%27s-Souls-Remake%EF%BC%9F)
