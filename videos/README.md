@@ -30,4 +30,5 @@
 - 26 - 🎬 [Demon's-Souls-Let's-Play-Part-7：-Stonefang-Tunnel](https://github.com/guccibust/YTDLv4/tree/main/videos/Demon%27s-Souls-Let%27s-Play-Part-7%EF%BC%9A-Stonefang-Tunnel)
 - 27 - 🎬 [Demon's-Souls-Let's-Play-Part-8：-Armored-Spider](https://github.com/guccibust/YTDLv4/tree/main/videos/Demon%27s-Souls-Let%27s-Play-Part-8%EF%BC%9A-Armored-Spider)
 - 28 - 🎬 [Demon's-Souls-Let's-Play-Part-9：-Flamelurker](https://github.com/guccibust/YTDLv4/tree/main/videos/Demon%27s-Souls-Let%27s-Play-Part-9%EF%BC%9A-Flamelurker)
-- 29 - 🎬 [What's-New-in-the-Demon's-Souls-Remake？](https://github.com/guccibust/YTDLv4/tree/main/videos/What%27s-New-in-the-Demon%27s-Souls-Remake%EF%BC%9F)
+- 29 - 🎬 [New-PS4⧸PS5-WebKit-exploit-released-(Overview-&-Setup)](https://github.com/guccibust/YTDLv4/tree/main/videos/New-PS4%E2%A7%B8PS5-WebKit-exploit-released-%28Overview-%26-Setup%29)
+- 30 - 🎬 [What's-New-in-the-Demon's-Souls-Remake？](https://github.com/guccibust/YTDLv4/tree/main/videos/What%27s-New-in-the-Demon%27s-Souls-Remake%EF%BC%9F)
