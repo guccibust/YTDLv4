@@ -7,3 +7,4 @@
 - 3 - 🎬 [DD2gether-Dragon's-Dogma-2-Coop-Mod-｜-Pre-Alpha-Test-Session](https://github.com/guccibust/YTDLv4/tree/main/videos/DD2gether-Dragon%27s-Dogma-2-Coop-Mod-%EF%BD%9C-Pre-Alpha-Test-Session)
 - 4 - 🎬 [The-Only-Thing-They-Fear...](https://github.com/guccibust/YTDLv4/tree/main/videos/The-Only-Thing-They-Fear...)
 - 5 - 🎬 [This-tiny-PC-DESTROYS-the-Steam-Machine-(and-doesn't-use-Windows!)](https://github.com/guccibust/YTDLv4/tree/main/videos/This-tiny-PC-DESTROYS-the-Steam-Machine-%28and-doesn%27t-use-Windows%21%29)
+- 6 - 🎬 [WeRecoverData-becomes-WeWipedData;-their-archive.org-page-is-GONE-after-threatening-to-sue-me-🤣](https://github.com/guccibust/YTDLv4/tree/main/videos/WeRecoverData-becomes-WeWipedData%3B-their-archive.org-page-is-GONE-after-threatening-to-sue-me-%F0%9F%A4%A3)
