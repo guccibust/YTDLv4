@@ -7,3 +7,4 @@
 - 3 - 🎬 [Dragon's-Dogma-2-Let's-Play-Part-1：-Newly-Arisen_lambda_4499](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2-Let%27s-Play-Part-1%EF%BC%9A-Newly-Arisen_lambda_4499)
 - 4 - 🎬 [Resident-Evil-Movie-Review](https://github.com/guccibust/YTDLv4/tree/main/videos/Resident-Evil-Movie-Review)
 - 5 - 🎬 [Resident-Evil-Movie-Review_ocean_2989](https://github.com/guccibust/YTDLv4/tree/main/videos/Resident-Evil-Movie-Review_ocean_2989)
+- 6 - 🎬 [The-reason-the-game-sold-1-million-copies-already-#onimushawayofthesword](https://github.com/guccibust/YTDLv4/tree/main/videos/The-reason-the-game-sold-1-million-copies-already-%23onimushawayofthesword)
