@@ -9,3 +9,4 @@
 - 5 - 🎬 [Resident-Evil-Movie-Review](https://github.com/guccibust/YTDLv4/tree/main/videos/Resident-Evil-Movie-Review)
 - 6 - 🎬 [Resident-Evil-Movie-Review_ocean_2989](https://github.com/guccibust/YTDLv4/tree/main/videos/Resident-Evil-Movie-Review_ocean_2989)
 - 7 - 🎬 [The-reason-the-game-sold-1-million-copies-already-#onimushawayofthesword](https://github.com/guccibust/YTDLv4/tree/main/videos/The-reason-the-game-sold-1-million-copies-already-%23onimushawayofthesword)
+- 8 - 🎬 [Vibrators-are-getting-really-good-(inside-your-smartphone)](https://github.com/guccibust/YTDLv4/tree/main/videos/Vibrators-are-getting-really-good-%28inside-your-smartphone%29)
