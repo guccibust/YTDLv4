@@ -1,19 +1,19 @@
-name: 01 - 🏆 دانلود از یوتیوب ( اصلی )
+name: Download YouTube Videos
 
 on:
   workflow_dispatch:
     inputs:
       video_urls:
-        description: '🔗 لینک ویدیو ( چند لینک با فاصله )'
+        description: 'YouTube URLs (space-separated)'
         required: true
         type: string
       download_subtitles:
-        description: '📝 زیرنویس ( فارسی و انگلیسی )'
+        description: 'Download subtitles (fa + en)'
         required: false
         default: false
         type: boolean
       quality:
-        description: '🎬 کیفیت و نوع'
+        description: 'Video quality'
         required: false
         default: 'best'
         type: choice
@@ -26,14 +26,14 @@ on:
           - 480
           - audio
       password:
-        description: '🔒 رمز ( اختیاری برای محافظت )'
+        description: 'RAR password (optional)'
         required: false
         default: ''
         type: string
 
 jobs:
   get-video:
-    name: "📥 دانلود ویدیو"
+    name: Download video
     runs-on: ubuntu-latest
     timeout-minutes: 180
     permissions:
@@ -43,7 +43,7 @@ jobs:
       - name: Check URL provided
         run: |
           if [ -z "${{ github.event.inputs.video_urls }}" ]; then
-            echo "❌ No video URL provided!"
+            echo "ERROR: No video URL provided!"
             exit 1
           fi
 
@@ -67,12 +67,19 @@ jobs:
       - name: Start WARP Container
         run: |
           docker network create warp-net || true
-          docker run -d --name warp --restart=always --network warp-net -p 1080:1080 --cap-add NET_ADMIN --sysctl net.ipv6.conf.all.disable_ipv6=0 --sysctl net.ipv4.conf.all.src_valid_mark=1 -v warp-data:/var/lib/cloudflare-warp caomingjun/warp
+          docker run -d --name warp --restart=always \
+            --network warp-net \
+            -p 1080:1080 \
+            --cap-add NET_ADMIN \
+            --sysctl net.ipv6.conf.all.disable_ipv6=0 \
+            --sysctl net.ipv4.conf.all.src_valid_mark=1 \
+            -v warp-data:/var/lib/cloudflare-warp \
+            caomingjun/warp
           sleep 15
           for i in {1..5}; do
             RESULT=$(curl -s --max-time 5 --socks5-hostname 127.0.0.1:1080 https://cloudflare.com/cdn-cgi/trace 2>/dev/null || echo "failed")
             if echo "$RESULT" | grep -qE "warp=(on|plus)"; then
-              echo "✅ WARP is active!"
+              echo "WARP is active!"
               break
             fi
             echo "Waiting for WARP... ($i/5)"
@@ -84,9 +91,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y python3-pip ffmpeg zip p7zip-full curl jq bc unzip rar
           curl -fsSL https://deno.land/install.sh | sh
-          export DENO_INSTALL="$HOME/.deno"
-          export PATH="$DENO_INSTALL/bin:$PATH"
-          echo "$DENO_INSTALL/bin" >> $GITHUB_PATH
+          echo "$HOME/.deno/bin" >> $GITHUB_PATH
           pip3 install --upgrade yt-dlp
 
       - name: Verify toolchain
@@ -96,9 +101,9 @@ jobs:
           echo "--- yt-dlp ---"
           yt-dlp --version
           echo "--- deno ---"
-          "$HOME/.deno/bin/deno" --version || echo "⚠️ deno not found"
+          "$HOME/.deno/bin/deno" --version || echo "WARNING: deno not found"
           echo "--- rar ---"
-          rar | head -n 3 || { echo "❌ rar not installed properly"; exit 1; }
+          rar | head -n 3 || { echo "ERROR: rar not installed properly"; exit 1; }
           echo "--- python ---"
           python3 --version
 
@@ -106,7 +111,7 @@ jobs:
         if: ${{ secrets.YT_COOKIES_B64 != '' }}
         run: |
           echo "${{ secrets.YT_COOKIES_B64 }}" | base64 -d > /tmp/cookies.txt
-          echo "✅ Cookies decoded to /tmp/cookies.txt"
+          echo "Cookies decoded to /tmp/cookies.txt"
 
       - name: Download YouTube Video(s)
         env:
@@ -137,12 +142,12 @@ jobs:
 
           BACKUP_FILE_COUNT=$(find "$BACKUP_DIR" -type f 2>/dev/null | wc -l)
           if [ "$BACKUP_FILE_COUNT" -eq 0 ]; then
-            echo "⚠️ WARNING: No files in backup directory"
+            echo "WARNING: No files in backup directory"
             git fetch origin "$BRANCH"
             git reset --hard origin/"$BRANCH"
             mkdir -p videos
             if [ ! -f "videos/README.md" ]; then
-              echo -e "# DOWNLOADED VIDEOS LIST :\n\n----\n\n> No videos downloaded yet." > videos/README.md
+              printf '# DOWNLOADED VIDEOS LIST :\n\n----\n\n> No videos downloaded yet.\n' > videos/README.md
               git add -f videos/README.md
               git diff --cached --quiet || git commit -m "Initialize videos folder [skip ci]"
               timeout 60 git push origin HEAD:"$BRANCH" || true
@@ -152,7 +157,7 @@ jobs:
 
           regenerate_master_readme() {
             MASTER_README="videos/README.md"
-            { echo "# DOWNLOADED VIDEOS LIST :"; echo ""; echo "----"; echo ""; } > "$MASTER_README"
+            printf '# DOWNLOADED VIDEOS LIST :\n\n----\n\n' > "$MASTER_README"
             NUM=0
             for folder in videos/*/; do
               [ -d "$folder" ] || continue
@@ -161,7 +166,7 @@ jobs:
               NUM=$((NUM + 1))
               FOLDER_ENCODED=$(python3 -c "import urllib.parse, sys; print(urllib.parse.quote(sys.argv[1], safe=''))" "$FOLDER_NAME")
               FOLDER_LINK="https://github.com/${REPO_OWNER}/${REPO_NAME}/tree/${BRANCH}/videos/${FOLDER_ENCODED}"
-              printf -- "- %s - 🎬 [%s](%s)\n" "$NUM" "$FOLDER_NAME" "$FOLDER_LINK" >> "$MASTER_README"
+              printf -- "- %s - [%s](%s)\n" "$NUM" "$FOLDER_NAME" "$FOLDER_LINK" >> "$MASTER_README"
             done
           }
 
@@ -180,10 +185,10 @@ jobs:
             while [ $PUSH_RETRY -lt 10 ]; do
               PUSH_RETRY=$((PUSH_RETRY + 1))
               if timeout 300 git push origin HEAD:"$BRANCH"; then
-                echo "✅ Push successful!"
+                echo "Push successful!"
                 break
               else
-                echo "⚠️ Push failed, retry $PUSH_RETRY/10..."
+                echo "Push failed, retry $PUSH_RETRY/10..."
                 sleep 5
                 git fetch origin "$BRANCH"
                 git reset --hard origin/"$BRANCH"
@@ -197,5 +202,5 @@ jobs:
           fi
 
           echo "=========================================="
-          echo "✅ All files pushed successfully!"
+          echo "All files pushed successfully!"
           echo "=========================================="
