@@ -17,7 +17,7 @@
 | **Video Name** | `Worst-Line-In-Wolverine-#moistcritikal-#penguinz0-#shorts-#wolverine` |
 | **Original Link** | [YouTube Video](https://www.youtube.com/shorts/bDOVkeiQNLo) |
 | **Total Size** | **1 file** - **1.08 MB** |
-| **Quality** | **720** |
+| **Quality** | **best** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
