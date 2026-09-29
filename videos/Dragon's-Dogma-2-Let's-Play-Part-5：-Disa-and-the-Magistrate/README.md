@@ -1,0 +1,52 @@
+# Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate
+
+<div align="center">
+  <picture>
+    <img src="thumbnail.jpg" width="250" />
+  </picture>
+</div>
+
+<br>
+
+---
+
+## Video Information
+
+| Property | Value |
+|----------|-------|
+| **Video Name** | `Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate` |
+| **Original Link** | [YouTube Video](https://www.youtube.com/watch?v=hUgrzb4jT98) |
+| **Total Size** | **7 parts** - **567.40 MB** |
+| **Quality** | **720** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
+
+---
+
+## Download Links
+
+> Download **all parts**, then open `Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate.rar` — the other parts are found automatically.
+
+| # | File | Link |
+|---|------|------|
+| 1 | `Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate.part1.rar` | [Download](https://raw.githubusercontent.com/guccibust/YTDLv4/main/videos/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate.part1.rar) |
+| 2 | `Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate.part2.rar` | [Download](https://raw.githubusercontent.com/guccibust/YTDLv4/main/videos/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate.part2.rar) |
+| 3 | `Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate.part3.rar` | [Download](https://raw.githubusercontent.com/guccibust/YTDLv4/main/videos/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate.part3.rar) |
+| 4 | `Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate.part4.rar` | [Download](https://raw.githubusercontent.com/guccibust/YTDLv4/main/videos/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate.part4.rar) |
+| 5 | `Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate.part5.rar` | [Download](https://raw.githubusercontent.com/guccibust/YTDLv4/main/videos/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate.part5.rar) |
+| 6 | `Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate.part6.rar` | [Download](https://raw.githubusercontent.com/guccibust/YTDLv4/main/videos/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate.part6.rar) |
+| 7 | `Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate.part7.rar` | [Download](https://raw.githubusercontent.com/guccibust/YTDLv4/main/videos/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate/Dragon%27s-Dogma-2-Let%27s-Play-Part-5%EF%BC%9A-Disa-and-the-Magistrate.part7.rar) |
+
+---
+
+## How to Extract
+
+| OS | Steps |
+|----|-------|
+| **Windows** | Double-click `Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate.rar` — opens in Explorer, WinRAR, or 7-Zip |
+| **Mac** | Double-click `Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate.rar` — extracts with The Unarchiver |
+| **Linux** | `unrar x Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate.rar` or right-click → Extract Here |
+| **Android** | Tap `Dragon's-Dogma-2-Let's-Play-Part-5：-Disa-and-the-Magistrate.rar` in file manager or use ZArchiver |
+
+---
+
