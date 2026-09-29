@@ -25,4 +25,5 @@
 - 21 - 🎬 [WARFARER-Is-Ready-for-Dark-Arisen-｜-Dragon’s-Dogma-2](https://github.com/guccibust/YTDLv4/tree/main/videos/WARFARER-Is-Ready-for-Dark-Arisen-%EF%BD%9C-Dragon%E2%80%99s-Dogma-2)
 - 22 - 🎬 [Wolverine](https://github.com/guccibust/YTDLv4/tree/main/videos/Wolverine)
 - 23 - 🎬 [Worst-Line-In-Wolverine-#moistcritikal-#penguinz0-#shorts-#wolverine](https://github.com/guccibust/YTDLv4/tree/main/videos/Worst-Line-In-Wolverine-%23moistcritikal-%23penguinz0-%23shorts-%23wolverine)
-- 24 - 🎬 [iPhone-18-Pro-TEARDOWN：-They-aren't-going-to-like-this...](https://github.com/guccibust/YTDLv4/tree/main/videos/iPhone-18-Pro-TEARDOWN%EF%BC%9A-They-aren%27t-going-to-like-this...)
+- 24 - 🎬 [You-know-NOTHING-about-this-game...](https://github.com/guccibust/YTDLv4/tree/main/videos/You-know-NOTHING-about-this-game...)
+- 25 - 🎬 [iPhone-18-Pro-TEARDOWN：-They-aren't-going-to-like-this...](https://github.com/guccibust/YTDLv4/tree/main/videos/iPhone-18-Pro-TEARDOWN%EF%BC%9A-They-aren%27t-going-to-like-this...)
