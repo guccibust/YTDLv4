@@ -95,6 +95,13 @@ jobs:
           echo "${{ env.YT_COOKIES_BASE64 }}" | base64 -d > cookies.txt
           echo "Cookies file created."
 
+                - name: Verify Cookies File
+        run: |
+          echo "Checking if cookies.txt exists..."
+          ls -la cookies.txt || echo "❌ FILE NOT FOUND"
+          echo "First 3 lines of the file:"
+          head -n 3 cookies.txt || echo "❌ COULD NOT READ FILE"
+
       - name: Download YouTube Video(s)
         env:
           YT_URLS: ${{ github.event.inputs.video_urls }}
