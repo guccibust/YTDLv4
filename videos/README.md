@@ -17,3 +17,4 @@
 - 13 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-39：-Quilt-Me-Down](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-39%EF%BC%9A-Quilt-Me-Down)
 - 14 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-40：-The-Fallen-Dragon-Returns](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-40%EF%BC%9A-The-Fallen-Dragon-Returns)
 - 15 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-42：-More-Meister-Battles](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-42%EF%BC%9A-More-Meister-Battles)
+- 16 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-43：-Blade-of-Rancor](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-43%EF%BC%9A-Blade-of-Rancor)
