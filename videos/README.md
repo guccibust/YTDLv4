@@ -13,4 +13,5 @@
 - 9 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-31：-Reaching-the-Far-Shore](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-31%EF%BC%9A-Reaching-the-Far-Shore)
 - 10 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-32：-Mired-Conduit](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-32%EF%BC%9A-Mired-Conduit)
 - 11 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-37：-The-Soul](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-37%EF%BC%9A-The-Soul)
-- 12 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-42：-More-Meister-Battles](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-42%EF%BC%9A-More-Meister-Battles)
+- 12 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-39：-Quilt-Me-Down](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-39%EF%BC%9A-Quilt-Me-Down)
+- 13 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-42：-More-Meister-Battles](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-42%EF%BC%9A-More-Meister-Battles)
