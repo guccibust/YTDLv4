@@ -26,5 +26,6 @@
 - 22 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-41：-Obelisk-Meisters](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-41%EF%BC%9A-Obelisk-Meisters)
 - 23 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-42：-More-Meister-Battles](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-42%EF%BC%9A-More-Meister-Battles)
 - 24 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-43：-Blade-of-Rancor](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-43%EF%BC%9A-Blade-of-Rancor)
-- 25 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-45：-Thane-of-Darkness](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-45%EF%BC%9A-Thane-of-Darkness)
-- 26 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-46：-Finale](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-46%EF%BC%9A-Finale)
+- 25 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-44：-Back-to-the-Temple](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-44%EF%BC%9A-Back-to-the-Temple)
+- 26 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-45：-Thane-of-Darkness](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-45%EF%BC%9A-Thane-of-Darkness)
+- 27 - 🎬 [Dragon's-Dogma-2：-Dark-Arisen-Let's-Play-Part-46：-Finale](https://github.com/guccibust/YTDLv4/tree/main/videos/Dragon%27s-Dogma-2%EF%BC%9A-Dark-Arisen-Let%27s-Play-Part-46%EF%BC%9A-Finale)
